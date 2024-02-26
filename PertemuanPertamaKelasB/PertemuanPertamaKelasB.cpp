@@ -11,6 +11,9 @@ int main()
 	//compute nLuas = nPanjang * nLebar
 	// display 'Luasnya adalah = ' + nLuas
 
+	int nPanjang, nLebar, nLuas;
+
+
 
 
 }//end
