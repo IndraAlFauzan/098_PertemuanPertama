@@ -12,6 +12,7 @@ int main()
 	// display 'Luasnya adalah = ' + nLuas
 
 	int nPanjang, nLebar, nLuas;
+	cout << "Masukan Panjang= ";
 
 
 
